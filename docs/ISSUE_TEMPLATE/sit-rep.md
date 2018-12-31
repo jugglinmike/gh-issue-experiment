@@ -1,6 +1,6 @@
 ---
 name: Situation Report
-about: Let us known about an incident with a deployed service.
+about: "Let us known about an incident with a deployed service :taco:"
 labels: sitrep
 ---
 
@@ -11,3 +11,5 @@ labels: sitrep
 ## Something else
 
 <!-- write other things here -->
+
+Verify that it changed.
