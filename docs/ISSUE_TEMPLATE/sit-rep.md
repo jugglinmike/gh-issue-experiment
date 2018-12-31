@@ -1,6 +1,6 @@
 ---
 name: Situation Report
-about: "Let us known about an incident with a deployed service :taco:"
+about: Let us known about an incident with a deployed service -change-
 labels: sitrep
 ---
 
